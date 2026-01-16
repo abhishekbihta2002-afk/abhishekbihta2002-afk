@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/abhishekbihta2002-afk/abhishekbihta2002-afk/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
 </div>
-<!--
+
 **abhishekbihta2002-afk/abhishekbihta2002-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oye_abhii0) 
